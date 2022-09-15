@@ -1,0 +1,10 @@
+эхо "# geek-nk" >> README.md
+ git init
+ git добавить README.md
+ git commit -m "первая фиксация"
+git branch -M main
+ git удаленное добавление источника https://github.com/NK-shark/geek-nk.git
+ git push -u origin основной
+ 
+ 
+ 
